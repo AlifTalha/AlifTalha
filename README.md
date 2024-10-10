@@ -89,6 +89,18 @@
   </a>
 </p>
 
+
+<!-- GitHub Readme Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlifTalha&show_icons=true&theme=dark)
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlifTalha&theme=dark)](https://git.io/streak-stats)
+
+<!-- Most Used Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlifTalha&layout=compact&theme=dark)](https://github.com/AlifTalha/github-readme-stats)
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliftalha&show_icons=true&locale=en&layout=compact" alt="aliftalha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliftalha&show_icons=true&locale=en" alt="al
