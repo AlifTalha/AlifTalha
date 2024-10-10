@@ -99,6 +99,7 @@
 <!-- Most Used Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlifTalha&layout=compact&theme=dark)](https://github.com/AlifTalha/github-readme-stats)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlifTalha&theme=react-dark)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliftalha&show_icons=true&locale=en&layout=compact" alt="aliftalha" /></p>
