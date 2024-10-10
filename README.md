@@ -13,6 +13,30 @@
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
 </p>
+<!-- About Me Section -->
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  Hi 👋, I'm <strong>ALIF HOSSAIN TALHA</strong>, a passionate Full Stack Developer from Bangladesh. I enjoy solving real-world problems with code, learning new technologies, and building web applications.
+</p>
+
+- 🔭 I’m currently working on **NestJS Project**
+- 🌱 I’m learning **frontend development** and diving deeper into **React**
+- 👨‍💻 All of my projects are available on [My GitHub](https://github.com/AlifTalha)
+- 💬 Ask me about **JavaScript, Node.js, NestJS, Python, and React**
+- 📫 How to reach me **hossainalif696@gmail.com**
+- ⚡ Fun fact: I love contributing to open-source projects and enjoy exploring AI and Machine Learning
+
+<h3 align="center">💼 Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/aliftalha" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliftalha" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/https://www.youtube.com/@itstalha1986" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@itstalha1986" height="30" width="40" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on **NestJS Project**
 - 🌱 I’m currently learning **Frontend Development**
