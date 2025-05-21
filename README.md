@@ -38,7 +38,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **NestJS Project**
+- 🔭 I’m currently working on **Asp.Net Core Project**
 - 🌱 I’m currently learning **Frontend Development**
 - 📫 How to reach me: **hossainalif696@gmail.com**
 
