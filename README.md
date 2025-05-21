@@ -39,7 +39,7 @@
 
 
 - 🔭 I’m currently working on **Asp.Net Core Project**
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Frontend Development React**
 - 📫 How to reach me: **hossainalif696@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
