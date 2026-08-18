@@ -81,10 +81,6 @@ I'm a software engineer passionate about building innovative solutions and conti
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AlifTalha&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlifTalha&theme=nord&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
