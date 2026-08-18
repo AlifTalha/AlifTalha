@@ -70,18 +70,6 @@ I'm a software engineer passionate about building innovative solutions and conti
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlifTalha&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlifTalha&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlifTalha&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-
 ---
 
 <div align="center">
