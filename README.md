@@ -11,15 +11,30 @@
 
 ## 👨‍💻 About Me
 
-I'm a software engineer passionate about building innovative solutions and continuously expanding my technical skills. I enjoy solving real-world problems with code and staying updated with the latest technologies.
+<div align="center">
 
-- 🔭 Currently working on **ASP.NET Core Projects**
-- 🌱 Learning **Frontend Development with React**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/AlifTalha)
-- 💬 Ask me about **JavaScript, Node.js, NestJS, Python, and React**
-- 📫 How to reach me: **hossainalif696@gmail.com**
-- ⚡ Fun fact: I love contributing to open-source projects and exploring AI/ML technologies
+### Building Ideas Into Real-World Software 🚀
 
+I'm a **Software Engineer & Web Developer** who enjoys turning ideas into reliable, scalable, and user-friendly applications.
+
+</div>
+
+### ⚡ Developer Snapshot
+
+| | |
+|---|---|
+| 👨‍💻 **Role** | Software Engineer & Web Developer |
+| ⚙️ **Backend** | ASP.NET Core, Node.js, NestJS |
+| 🎨 **Frontend** | React, JavaScript, TypeScript |
+| 🔌 **Focus** | REST APIs, Backend Systems & Full-Stack Development |
+| 🤖 **Exploring** | AI/ML & Modern Software Architecture |
+
+### 🚀 What I'm Currently Doing
+
+- 🔨 Building **real-world web applications and backend systems**
+- 🧠 Learning more about **System Design, APIs & scalable architecture**
+- 🤖 Exploring how **AI can be integrated into web applications**
+- 🌍 Contributing to and learning from **open-source projects**
 ## 🔗 Connect with me
 
 <p align="center">
